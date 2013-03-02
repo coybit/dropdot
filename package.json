@@ -12,7 +12,8 @@
     "less-middleware": "*",
     "node-uuid": "*",
     "node-crypto": "*",
-    "mime": "*"
+    "mime": "*",
+	"moment": "*"
   },
   "keywords": ["uploader", "app"],
   "repository": "git://github.com/alfg/dropdot"
